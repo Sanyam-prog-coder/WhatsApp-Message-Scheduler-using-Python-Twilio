@@ -16,8 +16,8 @@ import time
 
 # step 2 twilio creadentials
 
-account_sid = 'AC769ca928c8e1648d1c2a3d6a828397e5'
-auth_token = 'ef745867830600740226590c78e71f24'
+account_sid = 'YOUR_AC_SID'
+auth_token = 'YOUR_AUTH_TOKEN'
 
 client = Client(account_sid, auth_token)
 
